@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Contact-management-System-API/static/css/main.01ee24ae.css",
+    "main.js": "/React-Contact-management-System-API/static/js/main.e6928e07.js",
+    "static/js/453.6b693343.chunk.js": "/React-Contact-management-System-API/static/js/453.6b693343.chunk.js",
+    "index.html": "/React-Contact-management-System-API/index.html",
+    "main.01ee24ae.css.map": "/React-Contact-management-System-API/static/css/main.01ee24ae.css.map",
+    "main.e6928e07.js.map": "/React-Contact-management-System-API/static/js/main.e6928e07.js.map",
+    "453.6b693343.chunk.js.map": "/React-Contact-management-System-API/static/js/453.6b693343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01ee24ae.css",
+    "static/js/main.e6928e07.js"
+  ]
+}
