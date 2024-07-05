@@ -50,9 +50,9 @@ You can see the live demo [here](https://rudraprakash003.github.io/React-Contact
 
 1. Start the development server:
 
-  ```
-  npm start
-  ```
+   ```
+   npm start
+   ```
 
 2. Open your browser and navigate to http://localhost:3000.
 
@@ -70,13 +70,13 @@ This application uses the [JSONPlaceholder](https://jsonplaceholder.typicode.com
   https://jsonplaceholder.typicode.com/users
   ```
 - POST: Add a new contact
- ```
- https://jsonplaceholder.typicode.com/users
- ```
+  ```
+  https://jsonplaceholder.typicode.com/users
+  ```
 - PUT: Update an existing contact
- ```
- https://jsonplaceholder.typicode.com/users/{id}
- ```
+  ```
+  https://jsonplaceholder.typicode.com/users/{id}
+  ```
 - DELETE: Delete a contact
   ```
   https://jsonplaceholder.typicode.com/users/{id}
